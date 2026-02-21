@@ -3,7 +3,7 @@ Screenshots are live. Here's the complete README — **copy-paste everything bel
 ---
 
 ```markdown
-![Screenshot](forecastcrm/components/Screen/1.jpeg)
+![Screenshot](../forecastcrm/components/Screen/1.jpeg)
 
 
 ---
