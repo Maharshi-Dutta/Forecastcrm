@@ -3,12 +3,8 @@ Screenshots are live. Here's the complete README — **copy-paste everything bel
 ---
 
 ```markdown
-# ForecastCRM - AI Revenue Forecasting Platform
+<img width="1920" height="800" alt="image" src="https://github.com/user-attachments/assets/56c0ba20-79e7-4be5-8590-1617791f268a" />
 
-<div align="center">
-  <img src="screenshots/01-login.png" alt="ForecastCRM Login" width="700" />
-  <p><em>AI-Powered CRM with Revenue Forecasting, Deal Insights & Pipeline Management</em></p>
-</div>
 
 ---
 
