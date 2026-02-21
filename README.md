@@ -1,7 +1,7 @@
 Screenshots are live. Here's the complete README — **copy-paste everything below:**
 
 ---
-![Screenshot](components/Screen/1.jpeg)
+
 ```markdown
 
 
@@ -209,7 +209,9 @@ All endpoints are prefixed with `/api`:
 3. View monthly breakdown with confidence levels
 
 ---
-
+![Screenshot](components/Screen/2.jpeg)
+![Screenshot](components/Screen/1.jpeg)
+![Screenshot](components/Screen/3.jpeg)
 ## License
 
 MIT
